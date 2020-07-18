@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kiikoh.kiikoh)
+[![HitCount](http://hits.dwyl.com/kiikoh/kiikoh.svg)](http://hits.dwyl.com/kiikoh/kiikoh)
 
 My name is Kyle DePace. I go to Marist College in Poughkeepsie, NY majoring in computer science with a concentration in software development and a minor in Data Science.
 
